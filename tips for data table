@@ -1,0 +1,15 @@
+To create a date table :
+
+New Source > Other Sources > Blank Query > Advanced Editor
+
+Copy and paste the date code
+
+Put Dates
+
+Invoke
+
+Rename table to Dates
+
+Rename query to Dates Query
+
+The sort happens in this table by MonthnYear, QuarternYear column rename to MonthYear Sor and QuarterYear Sort
