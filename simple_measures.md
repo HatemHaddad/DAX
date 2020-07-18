@@ -16,7 +16,7 @@ __Iterating Functions - Very Important__
 
 `Total Transaction = COUNTROWS( SALES )`
 
---
+---
 
 Measure Branching - Measures out of measures
 
