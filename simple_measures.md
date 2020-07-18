@@ -26,4 +26,4 @@ In Sales Table we want to RELATE to the Products table to calculate Total Cost
 
 `Total Profits = [Total Sales] - [Total Cost]`
 
--------------------------------------------------------------
+---
