@@ -1,6 +1,6 @@
 
 
-Quantity Sold = SUM(Sales[Quantity])
+`Quantity Sold = SUM(Sales[Quantity])`
 
 Average Quantity = Average(Sales[Quantity])
 
