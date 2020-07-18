@@ -29,3 +29,7 @@ In Sales Table we want to RELATE to the Products table to calculate Total Cost
 `Profit Margin = DIVIDE([Total Profits],[Total Sales],0)`
 
 ---
+
+__CALCULATE Function allows us to change the context of a calculation__ 
+
+`Sales LY = Calculate( [Total Sales], SAMEPERIODLASTYEAR(Dates[Date]))`
