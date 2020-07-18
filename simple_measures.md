@@ -24,4 +24,6 @@ In Sales Table we want to RELATE to the Products table to calculate Total Cost
 
 Total Cost = SUMX(Sales, RELATED(Products[Product Cost]))
 
+Total Profits = [Total Sales] - [Total Cost]
+
 -------------------------------------------------------------
