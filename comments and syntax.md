@@ -5,7 +5,7 @@ To enter a comment -`//`
 
 Florida Sales of Product 1 or 2 = 
 
-`CALCULATE( [Total Sales], 
+`CALCULATE( [Total Sales],
 
     FILTER ( Locations, Locations[State Code] = "FL"),
     
