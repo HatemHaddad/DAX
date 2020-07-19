@@ -1,4 +1,4 @@
-To enter a line - 'click Shift + Enter'
+To enter a line - `click Shift + Enter`
 
 
 Florida Sales of Product 1 or 2 = 
