@@ -3,3 +3,5 @@ Home > Enter data (from Data section) > name it Key Measures click load > click 
 Delete column 1
 
 click the icon ( > ) besides fields and reclick to update the icon
+
+Now the Key Measures in a group
