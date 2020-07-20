@@ -1,0 +1,16 @@
+Click on Table View
+
+Click Table tools
+
+Click New table
+
+We can duplicate a table
+
+New Table = Sales
+
+OR
+we can use Table functions 
+
+New Table = FILTER ( Sales, [Sales Quantitity] > 2 ) 
+
+New Table = VALUES ( Dates[MonthName] ) //Nice function that returns unique values
