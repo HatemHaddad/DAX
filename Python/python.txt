@@ -1,0 +1,12 @@
+import pandas
+data = pandas.DataFrame(dataset)
+data.to_csv('F:/Demo/world_bank_data.csv')
+
+
+Setting Privacy Level for Python Scripts
+To be able to run a Python script successfully, the correct privacy levels have to be set up.
+
+Click on File;
+Select Options and Settings;
+Then click on Data source settings;
+For each data source using the Python script, including the Python, the correct privacy level should be selected. As mentioned, click on Edit Permissions and select the privacy level from the dropdown. In this example, I will use Public.
