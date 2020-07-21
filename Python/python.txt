@@ -1,6 +1,6 @@
 import pandas
 data = pandas.DataFrame(dataset)
-data.to_csv('F:/Demo/world_bank_data.csv')
+data.to_csv('C:/py4e/world_bank_data.csv')
 
 
 Setting Privacy Level for Python Scripts
